@@ -1,0 +1,7 @@
+#character {
+    height: 60px;
+    width: 60px;
+    background-color: darkolivegreen;
+    border-radius: 50%;
+    display: block;
+}
